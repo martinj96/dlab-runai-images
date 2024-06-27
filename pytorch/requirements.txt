@@ -1,6 +1,7 @@
 lightning
 nltk
 transformer_lens
+jsonlines
 tokenizers
 torchdata
 lightning-bolts
