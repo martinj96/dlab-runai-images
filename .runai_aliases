@@ -1,7 +1,7 @@
 # RUNAI ALIASES
 
 rpf() {
-	kubectl port-forward $1-0-0 2222:22;;
+	kubectl port-forward $1-0-0 2222:22
 }
 alias ric="runai config cluster ic-caas"
 alias rrcp="runai config cluster rcp-caas-test"
