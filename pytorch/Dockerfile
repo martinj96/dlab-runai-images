@@ -1,4 +1,4 @@
-ARG BASE_IMAGE="ghcr.io/jkminder/dlab-runai-images/base:master"
+ARG BASE_IMAGE="ghcr.io/martinj96/dlab-runai-images/base:master"
 
 FROM ${BASE_IMAGE}
 
